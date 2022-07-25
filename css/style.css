@@ -1,0 +1,18 @@
+.footer-section {
+    background-color: black;
+    width: 100%;
+    height: 300px;
+
+}
+
+.text {
+    color: azure;
+    padding-top: 10%;
+    padding-left: 8%;
+
+}
+
+.fa-square-check.filled {
+    color: #5243C2;
+    border-radius: 20px;
+}
